@@ -3,5 +3,5 @@ Repositório criado para o Desafio de projeto.
 
 
 ## Links úteis
-[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
+[Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)<br>
 [Download do Git](https://git-scm.com/downloads)
